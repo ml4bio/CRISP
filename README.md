@@ -1,10 +1,10 @@
 # CRISP
-This repository contains code for the paper **Predicting Drug Responses of Unseen Cell Types through Transfer Learning with Foundation Models**
+This repository contains code for the paper **Predicting Drug Responses of Unseen Cell Types through Transfer Learning with Foundation Models**.
 
 ## Installation
 Follow the code below to install CRISP. Installation may take about 1 minute.
 ```bash
-git clone https://github.com/Susanxuan/CRISP.git
+git clone https://github.com/ml4bio/CRISP.git
 cd CRISP
 pip install -e .
 ```
