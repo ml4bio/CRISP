@@ -1,5 +1,5 @@
 # CRISP
-CRISP is developed for predicting drug perturbation response for unseen cell types in cell type-specific way. It incorporates single cell foundation models (scFMs) into a cell type-specific learning framework. By exploiting cell type similarities and divergences learned from FMs, CRISP effectively extends existing cell atlases into the perturbation space, providing a systematic approach to characterize drug-induced cellular state transitions. During the inference stage, CRISP requires only drug information and control state scRNA-seq data as input, to predict the cell type-specific drug responses.
+This repository contains code for the paper **Predicting Drug Responses of Unseen Cell Types through Transfer Learning with Foundation Models**
 
 ## Installation
 Follow the code below to install CRISP. Installation may take about 1 minute.
