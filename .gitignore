@@ -1,4 +1,4 @@
 scFoundation/demo
-data/
+# data/
 *.h5ad
 *.csv
