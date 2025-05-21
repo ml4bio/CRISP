@@ -1,6 +1,14 @@
 ## Preparation of dataset
 We have provided [preprocessed datasets](https://drive.google.com/drive/folders/1QWjmpYZMaqxfLwIeLjwoz-H9vX60udeu?usp=drive_link) to use directly.
 
+For researchers interested in understanding the complete data preprocessing workflow, we provide detailed documentation in our nips_data.ipynb notebook. This notebook includes:
+
+* A comprehensive explanation of the required data structure and fields
+* Step-by-step code for creating an AnnData object from raw data
+* Data cleaning and standardization procedures
+* Implementation of the train-test-OOD split for model evaluation
+
+The notebook provides a transparent view of how our preprocessed datasets were created, which is particularly helpful for researchers who may want to apply our methods to their own datasets or understand the underlying data structure requirements
 
 ### Training:
 Before conducting training, you need to complete several preprocess stages for your datasets.
