@@ -1,0 +1,16 @@
+torch==2.4.0
+torchmetrics==1.6.0
+scipy==1.13.1
+anndata==0.10.8
+scanpy==1.10.3
+numpy==1.26.4
+pandas==2.2.3
+tqdm==4.67.1
+scikit-learn==1.5.2
+seaborn==0.13.2
+matplotlib==3.9.3
+geomloss==0.2.6
+gseapy==1.1.4
+pykeops==2.3
+rdkit==2024.3.2
+pyyaml==6.0.2
